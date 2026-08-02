@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Rust
+target/
+
+# Generated recordings
+recordings/*.jsonl
+recordings/*.bin
+
+# macOS
+.DS_Store
