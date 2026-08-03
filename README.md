@@ -115,7 +115,7 @@ During a representative recording session, the Rust SDK successfully processed *
 # Repository Structure
 
 ```text
-biodevice-sdk/
+neural-device-sdk/
 │
 ├── docs/
 │   └── protocol-v1.md
